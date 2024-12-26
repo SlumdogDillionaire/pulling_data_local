@@ -304,7 +304,7 @@ if __name__ == "__main__":
         symbol = "BTCUSD"
         broker = "bitstamp"
         timeframe = "1m"
-        start = "2018-07-14T07:30:00Z"
+        start = "2017-07-14T07:30:00Z"
         end = "2018-07-14T07:40:00Z"
         config = DB_CONFIG_FILE
         data_root = os.path.join(os.path.dirname(__file__), "..", "data")  # or any other absolute path
